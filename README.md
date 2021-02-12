@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://gpvc.arturio.dev/bagusfe" />
+<img src="https://gpvc.arturio.dev/StynxD" />
 </p>
 
 ### Stats:
@@ -19,7 +19,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://combo-list.ml-green?" /></a>
+    <a href="https://combo-list.ml" target="blank"><img src="https://img.shields.io/badge/Website-https://combo-list.ml-green?" /></a>
 
 <!--
 **StynxD/StynxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
