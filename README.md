@@ -1,4 +1,4 @@
-### Hi there, I'm [StynxD!](https://t.me/soul_kings) 👋
+### Hi there, I'm StynxD! 👋
 
 <img src="https://gpvc.arturio.dev/StynxD" />
 </p>
